@@ -1555,7 +1555,7 @@ msgstr "Upload new picture"
 msgid "Intro"
 msgstr "Intro"
 
-msgid "Badges Welcome Text"
+msgid "Welcome to the CoderDojo Badges dashboard."
 msgstr "Welcome to the CoderDojo Badges dashboard."
 
 msgid "Short Description"
@@ -2663,3 +2663,9 @@ msgstr "Not all information entered on your profile is viewable. You can choose 
 
 msgid "Only your username and profile picture are publicly viewable. Other fields are for administration purposes only."
 msgstr "Only your username and profile picture are publicly viewable. Other fields are for administration purposes only."
+
+msgid "If you'd like to award a badge, please visit the manage users section below:"
+msgstr "If you'd like to award a badge, please visit the manage users section below:"
+
+msgid "Your local Dojo administrator can award you badges."
+msgstr "Your local Dojo administrator can award you badges."
